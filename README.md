@@ -26,7 +26,6 @@ Em cada um desses projetos aplico de uma forma diferente os conceitos de lógica
 
 ### 09. [imc-calculator](https://github.com/Nop-Dev/learning-logic-and-algorithim/tree/main/project09-imc-calculator)
 
-
 | Nop-Dev, 2023 :rocket: |
 | --- |
 
